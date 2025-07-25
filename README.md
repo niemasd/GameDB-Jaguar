@@ -1,0 +1,2 @@
+# GameDB-Jaguar
+Atari Jaguar
